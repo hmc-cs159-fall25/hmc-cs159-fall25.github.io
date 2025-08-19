@@ -8,6 +8,7 @@ search: false
 $right-sidebar-width-narrow: 100px;
 $right-sidebar-width: 100px;
 $max-width: 1920px;
+$doc-font-size: 14px !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
