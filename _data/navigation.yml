@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Syllabus"
     url: /syllabus/
+  - title: "Schedule"
+    url: /schedule/
   - title: "Labs"
     url: /labs/
   - title: "Midterm & Final Project"

@@ -15,11 +15,19 @@ For information about office hours and links to the course resources, visit the 
 
 ## Motivation
 
+<div align="center">
+  <img src="/assets/images/header-comic.png" alt="Edited version of SMBC comic 'Muffins' by Zach Wienersmith" width=500px>
+</div>
+
+> Original comic by Zach Wienersmith [[source](https://www.smbc-comics.com/comic/muffins)]; extremely professional and seamless edit by your prof
+
+We find ourselves in a world that is constantly being reshaped by natural language processing (NLP) technologies. This is perhaps most outwardly prominent right now in the form of chatbots and virtual assistants, but NLP is in fact all around us in more subtle ways—from search engines to spellcheckers to social media sorting algorithms. How do these technologies work? What is their relation to how we humans use language? What are their limitations? NLP is a rapidly changing field and the specific answers to these questions may change even within the next year (or sooner). Yet even today's most cutting-edge NLP models are grounded in foundational concepts and methods that have been with us for decades, and having a solid grasp of these foundational concepts can go a long way towards helping you sort out the hype from the reality. With NLP taking an ever more prominent position in daily life, a fluency in these key concepts will be a valuable skill for anyone who seeks to be a "leader in their field with a clear understanding of the impact of their work on society" (as the HMC mission statement calls you to be)!
+
 ## Course Goals
 
 This NLP class has two complementary goals: explaining core concepts and problems in NLP centering on how text is stored, predicted, categorized, dismantled, and interpreted by computers; and showing how those core concepts are connected to, and still very much present within, today's cutting-edge NLP technologies. By the end of this semester, you should be able to:
 
-- Implement and use **classic algorithms** for natural language processing such as text normalization, statistical language models, vector representations of words, word sense disambiguation, part-of-speech tagging, and text classification;
+- Implement and use **classic algorithms** for natural language processing such as text normalization, statistical language models, vector representations of words, information retrieval, part-of-speech tagging, and text classification;
 - Read and analyze **primary literature** (that, is, academic papers) in the field of NLP in popular subfields;
 - Choose and interpret **appropriate metrics of evaluation** of how NLP technologies perform in practice;
 - **Critique the assumptions** and approximations that are made about language when developing NLP problems, algorithms, datasets, and evaluations;
@@ -43,27 +51,54 @@ During the "special topics" part of the class, lecture time will instead be devo
 
 ### Labs
 
-Labs are an opportunity for you to get practice with the algorithms, tools, and concepts discussed in the lectures and readings. There are six total lab assignments; starting in Week 2, labs will be **released weekly on Thursday morning** (i.e., before the in-class work session) and **due at midnight (11:59pm) the following Wednesday.** All labs are implemented in Python; to ensure compatibility, we will provide access to a shared server environment with all necessary software and packages already installed. You are not _required_ to use this environment, but it is the only environment we "officially" support; if you choose to work on your own computer it is your responsibility to install the needed software and packages yourself, and the course staff cannot guarantee assistance for technical issues you may face on an environment other than the course server.
+Labs are an opportunity for you to get practice with the algorithms, tools, and concepts discussed in the lectures and readings. There are six total lab assignments; starting in Week 2, labs will be **released weekly on Thursday morning** (i.e., before the in-class work session) and **due at midnight (11:59pm) the following Wednesday.** All labs are implemented in Python; to ensure compatibility, we will provide access to a shared server environment with all necessary software and packages already installed. 
+
+Labs are also an opportunity for you to practice good record-keeping and documentation (important skills in both research and industry careers!). To this end, labs are not graded directly based on your code, but instead based on the quality of a **work journal** you will be asked to record for each lab assignment. Journaling instructions and a grading rubric can be found here [LINK TODO].
 
 **Pair programming is strongly encouraged**, but not required, for lab assignments.
 
 ### Midterm
 
-There will be one midterm exam covering concepts from the "core concepts" part of the class. The midterm is currently tentatively scheduled for Week 11. Details on the format of the midterm will be made available on the Midterm page (TODO: URL) closer to the day of.
+There will be one midterm exam covering concepts from the "core concepts" part of the class. The midterm is currently tentatively scheduled for Week 11. The midterm will consist of a solo portion containing multiple-choice and short-answer questions, and a group portion in which you will write an open-ended evaluation/critique of a provided example NLP application. Further details will be provided on the [midterm page](/midterm-project-index/) closer to the day of.
 
 ### Special Topic Presentation
 
-During the "special topics" part of the class, you will work with a small team of 3-4 students to lead a 35-minute class discussion of a modern topic in natural language processing, in which you will presenting the core problem and some ideas from recent work. Information about signing up for topics and expectations for these will be shared when we reach that point.
+NLP is a constantly evolving field, and the "special topics" part of the class is designed to reflect that. In this part of the class, you will work with a small team of 3-4 students to lead a class discussion of a modern topic in natural language processing, in which you will presenting the core problem and some ideas from recent work. Information about signing up for topics and expectations for these will be shared when we reach that point.
 
 ### Final Project
 
 During the "special topics" part of the class, you will also work on a final project in a group of 1-3 people. The final deliverables of this project will be (1) an short 3-4 page ACL-style paper describing your project and (2) a short presentation of the highlights of your project. Your final project grade will be determined by these two deliverables, as well as several smaller milestone assignments in the second half of the semester. **Final deliverables will be due on Gradescope at the end of the corresponding final exam period for our class.**
 
+### Schedule
+
+The tentative course schedule can be found [here](/schedule/). Links will be added and updated for lab assignments, supplementary readings, and special topic signups as we progress through the semester.
+
 ## Class Policies
 
 ### Grading
 
-TBD
+Your grade will be computed using the following components:
+
+- 10% Class participation and check-ins
+- 35% Lab assignments
+- 15% Midterm exam
+- 15% Special topic presentation
+- 25% Final project
+
+Final grades are calculated based on the following scale (which, following HMC practices, does not include A+ or D-):
+
+|Letter grade|Minimum numeric grade|
+|------------|---------------------|
+|A           |95                   |
+|A-          |90                   |
+|B+          |87                   |
+|B           |83                   |
+|B-          |80                   |
+|C+          |77                   |
+|C           |73                   |
+|C-          |70                   |
+|D+          |67                   |
+|D           |65                   |
 
 ### Extensions
 
