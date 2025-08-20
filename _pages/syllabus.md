@@ -53,7 +53,7 @@ During the "special topics" part of the class, lecture time will instead be devo
 
 Labs are an opportunity for you to get practice with the algorithms, tools, and concepts discussed in the lectures and readings. There are six total lab assignments; starting in Week 2, labs will be **released weekly on Thursday morning** (i.e., before the in-class work session) and **due at midnight (11:59pm) the following Wednesday.** All labs are implemented in Python; to ensure compatibility, we will provide access to a shared server environment with all necessary software and packages already installed. 
 
-Labs are also an opportunity for you to practice good record-keeping and documentation (important skills in both research and industry careers!). To this end, labs are not graded directly based on your code, but instead based on the quality of a **work journal** you will be asked to record for each lab assignment. Journaling instructions and a grading rubric can be found here [LINK TODO].
+Labs are also an opportunity for you to practice good record-keeping and documentation (important skills in both research and industry careers!). To this end, **labs are not graded directly based on your code**, but instead based on the quality of a **work journal** you will be asked to record for each lab assignment. Journaling instructions and a grading rubric can be found [here](/labs/grading/).
 
 **Pair programming is strongly encouraged**, but not required, for lab assignments.
 
