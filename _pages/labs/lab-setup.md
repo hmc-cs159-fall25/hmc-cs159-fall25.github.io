@@ -117,6 +117,29 @@ Now that your virtual environment has been created and activated, there is just 
 
 This tells pip to read a list of packages from the file named `/courses/cs159/python/requirements.txt` (which the course staff has already prepared for you) and install them all. This will take a while a print out a bunch of progress bars.
 
+You may want to do some quick testing to make sure that everything got installed correctly. In your terminal, open an interactive Python shell by running either `python` or `ipython` (depending on your personal preference), and try running the following code snippet. You don't need to fully understand what this code does yet, but it basically "looks like" the kind of code you'll be writing throughout the labs!
+
+```
+from spacy.lang.en import English
+nlp_model = English() # this makes an English spaCy model
+test_str = "1 picture is worth a thousand words"
+spacy_output = nlp_model(test_str) # this uses the spaCy model to analyze test_str
+for piece in spacy_output:
+    if piece.like_num:
+        print(piece)
+```
+
+This should print:
+
+```
+1
+thousand
+```
+
+If it prints anything else, or if any part of the above snippet gives an error, something may have gone wrong and you should immediately contact course staff for assistance.
+
+(As an aside: don't you think it's pretty neat how spaCy is able to identify different "ways" humans express numbers? I think that's pretty neat! If you want, maybe you can try playing around with different input strings to test the limits of this ability...)
+
 You are now finished! Your virtual environment has been set up with all the necessary software and packages, and you can use it for all subsequent labs (and your final project). Remember to always activate the virtual environment before starting work on any lab!
 
 ## (OPTIONAL) Brief notes about using your own computer
