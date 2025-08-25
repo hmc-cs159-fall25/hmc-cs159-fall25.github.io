@@ -56,10 +56,10 @@ You are perfectly free to access the server purely by terminal (using the above 
 
 1. Open VS Code on your computer (or a CS Lab computer). This gives you an editor for files on the hard drive of the computer you are using.
 2. In the bottom left corner of VSCode, there should be a blue button with a >< icon: <br>
-![VS Code connect button](/assets/images/vscode_ssh_1.png) <br>
+![VS Code connect button]({{ site.baseurl }}/assets/images/vscode_ssh_1.png) <br>
 Click on this button!
 3. This will bring up the following menu: <br>
-![VS Code ssh menu](/assets/images/vscode_ssh_2.png) <br>
+![VS Code ssh menu]({{ site.baseurl }}/assets/images/vscode_ssh_2.png) <br>
 You may select either "Connect to Host" or "Connect Current Window to Host"; it’s entirely a matter of personal preference (if you’re new to this, I recommend the latter option).
 4. In the resulting prompt, enter `<username>@chrysanthemum.cs.hmc.edu` (where `<username>` is, once again, your actual username as listed in Nic's email).
 5. It will then ask you for your password. Enter the new password you set during the previous step.
@@ -105,7 +105,7 @@ conda activate cs159env
 
 To indicate that this was successful, the appearance of your command line should change to show "cs159env" before your username, like in the screenshot below (though, note this screenshot is from my summer research docs and therefore shows a different environment name):
 
-![Terminal prompt with virtual environment name](/assets/images/active_env.png)
+![Terminal prompt with virtual environment name]({{ site.baseurl }}/assets/images/active_env.png)
 
 _Note_: activating a virtual environment only affects the terminal in the current SSH session. Every time you start a new SSH session, you will need to run the above activation command again if you want to use this virtual environment!
 

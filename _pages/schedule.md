@@ -23,7 +23,7 @@ Additional readings for this week are: J&M Chapter 2.7 (required) and _[this Tec
 
 |Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Topic signup|
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
-|1   |Introduction and course overview         |J&M 2.3                    |J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0](/labs/lab0/)" in-class activity|
+|1   |Introduction and course overview         |J&M 2.3                    |J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |                           |                      |                              |
 |3   |Probability, N-grams, smoothing          |                           |                      |                              |
 |4   |Text classification                      |                           |                      |                              |

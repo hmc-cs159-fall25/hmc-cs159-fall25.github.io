@@ -13,12 +13,12 @@ title: "Syllabus"
 
 **Office Hours**: TBD, McGregor 322
 
-For information about office hours and links to the course resources, visit the [Home page](/).
+For information about office hours and links to the course resources, visit the [Home page]({{ site.baseurl }}/).
 
 ## Motivation
 
 <div align="center">
-  <img src="/assets/images/header-comic.png" alt="Edited version of SMBC comic 'Muffins' by Zach Wienersmith" width=500px>
+  <img src="{{ site.baseurl }}/assets/images/header-comic.png" alt="Edited version of SMBC comic 'Muffins' by Zach Wienersmith" width=500px>
 </div>
 
 > Original comic by Zach Wienersmith [[source](https://www.smbc-comics.com/comic/muffins)]; extremely professional and seamless edit by your prof
@@ -55,13 +55,13 @@ During the "special topics" part of the class, lecture time will instead be devo
 
 Labs are an opportunity for you to get practice with the algorithms, tools, and concepts discussed in the lectures and readings. There are six total lab assignments; starting in Week 2, labs will be **released weekly on Thursday morning** (i.e., before the in-class work session) and **due at midnight (11:59pm) the following Wednesday.** All labs are implemented in Python; to ensure compatibility, we will provide access to a shared server environment with all necessary software and packages already installed. 
 
-Labs are also an opportunity for you to practice good record-keeping and documentation (important skills in both research and industry careers!). To this end, **labs are not graded directly based on your code**, but instead based on the quality of a **work journal** you will be asked to record for each lab assignment. Journaling instructions and a grading rubric can be found [here](/labs/grading/).
+Labs are also an opportunity for you to practice good record-keeping and documentation (important skills in both research and industry careers!). To this end, **labs are not graded directly based on your code**, but instead based on the quality of a **work journal** you will be asked to record for each lab assignment. Journaling instructions and a grading rubric can be found [here]({{ site.baseurl }}/labs/grading/).
 
 **Pair programming is strongly encouraged**, but not required, for lab assignments.
 
 ### Midterm
 
-There will be one midterm exam covering concepts from the "core concepts" part of the class. The midterm is currently tentatively scheduled for Week 11. The midterm will consist of a solo portion containing multiple-choice and short-answer questions, and a group portion in which you will write an open-ended evaluation/critique of a provided example NLP application. Further details will be provided on the [midterm page](/midterm-project-index/) closer to the day of.
+There will be one midterm exam covering concepts from the "core concepts" part of the class. The midterm is currently tentatively scheduled for Week 11. The midterm will consist of a solo portion containing multiple-choice and short-answer questions, and a group portion in which you will write an open-ended evaluation/critique of a provided example NLP application. Further details will be provided on the [midterm page]({{ site.baseurl }}/midterm-project-index/) closer to the day of.
 
 ### Special Topic Presentation
 
@@ -73,7 +73,7 @@ During the "special topics" part of the class, you will also work on a final pro
 
 ### Schedule
 
-The tentative course schedule can be found [here](/schedule/). Links will be added and updated for lab assignments, supplementary readings, and special topic signups as we progress through the semester.
+The tentative course schedule can be found [here]({{ site.baseurl }}/schedule/). Links will be added and updated for lab assignments, supplementary readings, and special topic signups as we progress through the semester.
 
 ## Class Policies
 
