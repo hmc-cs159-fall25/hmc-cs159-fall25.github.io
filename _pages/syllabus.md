@@ -11,7 +11,7 @@ title: "Syllabus"
 
 **Time and Place**: T/R 1:15-2:30pm (Section 1) and 2:45-4:00pm (Section 2); SHAN 2450
 
-**Office Hours**: TBD
+**Office Hours**: TBD, McGregor 322
 
 For information about office hours and links to the course resources, visit the [Home page](/).
 
