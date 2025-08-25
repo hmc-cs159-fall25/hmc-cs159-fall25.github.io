@@ -19,7 +19,7 @@ To this end, for each lab assignment you will be asked to record and submit a re
 
 To be more specific, you journal should include all of the following:
 
-- High-level ideas you have as you figure out how to solve a problem in the assignment. (example: "My first thought was to use Python's `Counter` class to handle the counting of tokens)
+- High-level ideas you have as you figure out how to solve a problem in the assignment. (example: "My first thought was to use Python's `Counter` class to handle the counting of tokens")
 - Any difficulties you encountered. Note that "difficulties" doesn't _only_ include bugs, but also covers things like being unsure how to even start, having code that works but gives results that don't make sense, or even being confused about what the problem is asking. (examples: "The function worked for most test cases but gave counts that were off by one on the file `example.txt`"; "I know the first thing we need to do is tokenize but I'm not sure how to further filter the tokens")
 - Steps you took to resolve the difficulties. This can include things like (concisely) outlining your debugging steps, or citing resources that helped you solve the problem. (examples: "I opened `example.txt` and compared it to another input file that the function worked correctly on"; "I went to grutoring hours and the grutor told me to pay attention to how I handle line endings")
 - Explicitly marked answers to **analysis questions** (see below).

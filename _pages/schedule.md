@@ -5,19 +5,25 @@ title: "Schedule"
 
 The schedule is tentative and subject to change. Links to each week's assignments and readings will be added on the Monday of that week.
 
-"J&M" refers to the [Jurafsky & Martin Textbook](https://web.stanford.edu/~jurafsky/slp3/)
+"J&M" refers to the [Jurafsky & Martin Textbook](https://web.stanford.edu/~jurafsky/slp3/). _Italicized readings are optional_; all other listed readings are mandatory.
 
 For your convenience, the information for the current week can always be found here at the top of the page, before the full schedule.
+
+---
 
 The current week is: **Week 1**.
 
 The topic for this week is: **Introduction and course overview**
 
+This week's lecture covers J&M Chapter 2.3.
+
+Additional readings for this week are: J&M Chapter 2.7 (required) and _[this TechCrunch article about Unicode in Japan's new Reiwa era](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_
+
 ## Full schedule
 
 |Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Topic signup|
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
-|1   |Introduction and course overview         |                           |                      |                              |
+|1   |Introduction and course overview         |J&M 2.3                    |J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0](/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |                           |                      |                              |
 |3   |Probability, N-grams, smoothing          |                           |                      |                              |
 |4   |Text classification                      |                           |                      |                              |
