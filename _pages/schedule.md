@@ -15,7 +15,7 @@ The current week is: **Week 1**.
 
 The topic for this week is: **Introduction and course overview**
 
-This week's lecture covers J&M Chapter 2.3.
+This week's lecture covers J&M Chapter 2.3. ([Click here to view the lecture slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf))
 
 Additional readings for this week are: J&M Chapter 2.7 (required) and _[this TechCrunch article about Unicode in Japan's new Reiwa era](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_
 
@@ -23,7 +23,7 @@ Additional readings for this week are: J&M Chapter 2.7 (required) and _[this Tec
 
 |Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Topic signup|
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
-|1   |Introduction and course overview         |J&M 2.3                    |J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
+|1   |Introduction and course overview         |J&M 2.3 [[Slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf)]|J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |                           |                      |                              |
 |3   |Probability, N-grams, smoothing          |                           |                      |                              |
 |4   |Text classification                      |                           |                      |                              |

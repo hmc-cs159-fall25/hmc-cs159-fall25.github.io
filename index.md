@@ -14,6 +14,8 @@ excerpt: Natural Language Processing
 
 **Instructor**: Prof. Jonathan Chang
 
+**Grutor**: Aidan Deshong
+
 **Time and Place**: T/R 1:15-2:30pm (Section 1) and 2:45-4:00pm (Section 2); SHAN 2450
 
 **Office Hours**: Time TBD, McGregor 322
