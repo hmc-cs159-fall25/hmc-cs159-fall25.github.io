@@ -48,6 +48,10 @@ DON'T:
 - Focus only on the code. In NLP, understanding the cause of a problem usually requires an understanding not only of the code itself, but also of the input data that the code is running on.
 - Wait until the assignment is done to write your journal all at once. This defeats the purpose of journaling, and I guarantee you there will be details you forget if you wait until the end to write everything up.
 
+### Example journal
+
+Looking for more guidance? [Here's an example](https://docs.google.com/document/d/1D1PMrW25nJ3RXRDgi4V9xi-lheOSuzvjL9ZBt0vzj9I/edit?usp=sharing) of (an excerpt from) a journal that was kept by some of my research students during Summer 2025. Note that the task these students were working on was more of a web development project than an NLP one, so the specific technical insights are different from what you'll have in your journals. Nonetheless, I think this excerpt demonstrates a lot of the good practices listed above, such as explicitly showing planning outlines and general thought processes, outlining debugging steps taken to solve problems, and including figures and example outputs.
+
 ## Journal submission and grading
 
 For each lab, you will be asked to submit two things: a link to the GitHub repo for your code, and a PDF copy of your journal (you can use any method you want to write the journal, be it Google Docs or LaTeX or Markdown or anything else, you just need to export it as a PDF at the end). If you were working with a partner, you only need to submit one journal for both of you, but note that on the Honor Code, both partners must contribute roughly equally to the submitted journal.

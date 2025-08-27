@@ -11,7 +11,7 @@ In addition to letting you practice your journaling, this activity is meant as a
 
 Practice regular expressions by playing [RegEx Golf](https://alf.nu/RegexGolf).
 
-Challenge yourself to at least get through the following exercises: Warmup, Anchors, It never ends, Ranges, and Backrefs. And if you get through all of them, just keep going until you either run out or reach the end of the class session :) Because this lab is graded on completion only, you can feel free to just submit whatever you have at the end of class.
+**There is no expectation regarding how many of these you get through.** You should of course challenge yourself to get through as many as you can, but that number will undoubtedly be different depending on your level of previous experience with regex. The goal of this exercise is not to master regex (which, again, some of you may be seeing today for the first time ever!) but instead to get some familiarity with its syntax and build intuition for the kinds of problems it can be used to solve, and also to get some practice with journaling.
 
 ### Analysis Question #1
 
@@ -20,3 +20,7 @@ Which exercises did you end up finishing? Give us the regex you designed for eac
 ### Analysis Question #2
 
 Describe how this activity went for you. Were any puzzles particularly challenging, and what made them challenging? Alternately, is there any regex you're particularly proud of devising, and if so, why? 
+
+## Submitting
+
+There is no code to submit for this exercise (though, please make sure to include the specific regexes you came up with somewhere in your journal). You should just submit your journal on [the Gradescope assignment](https://www.gradescope.com/courses/1066898/assignments/6615932).
