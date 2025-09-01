@@ -15,16 +15,16 @@ The current week is: **Week 2**.
 
 The topic for this week is: **Tokenization, Segmentation, and Evaluation**
 
-This week's lecture covers J&M Chapters 2.1; 2.4-2.5; and the intro of 3.
+This week's lecture covers J&M Chapters 2.1; 2.5-2.6; and the intro of 3.
 
-Additional readings for this week are: J&M Chapter 2.6; 4.9.
+Additional readings for this week are: J&M Chapter 2.4 (up until 2.4.3); 4.9.
 
 ## Full schedule
 
 |Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Topic signup|
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
 |1   |Introduction and course overview         |J&M 2.3 [[Slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf)]|J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
-|2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.4-2.5; intro of 3|J&M 2.6; 4.9         |Lab 1                         |
+|2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.5-2.6; intro of 3|J&M 2.4 (up until 2.4.3); 4.9|Lab 1                         |
 |3   |Probability, N-grams, smoothing          |                           |                      |                              |
 |4   |Text classification                      |                           |                      |                              |
 |5   |Part-of-speech tagging                   |                           |                      |                              |
