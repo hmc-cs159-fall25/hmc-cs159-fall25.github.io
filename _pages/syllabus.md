@@ -49,7 +49,7 @@ CS 159 can be roughly divided into two parts. Weeks 1-10 comprise the "core conc
 
 ### Class sessions
 
-CS 159 uses a "semi-flipped" format. Of the two class sessions per week, one session (generally the Tuesday session) will be dedicated to a **lecture** covering the core topics for that week. You will also be assigned **supplementary readings** (mostly from the textbook, but sometimes mixed with other sources) which build upon the material from lecture. **Supplementary readings should be completed before the following week's lecture.**
+CS 159 uses a "semi-flipped" format. Of the two class sessions per week, one session (generally the Tuesday session) will be dedicated to a **lecture** covering the core topics for that week. You will also be assigned **supplementary readings** (mostly from the textbook, but sometimes mixed with other sources) which build upon the material from lecture. **Supplementary readings should be completed before the following week's lecture at latest**, but I encourage you to do them early, since lab assignments will rely on concepts from both the lecture and the readings.
 
 The second class session will be **in-class work time** for you to work on that week's lab assigment (details below). Before coming to an in-class work session, you will be asked to complete a short **check-in** on Gradescope asking about your level of comfort with the concepts from lecture (and any parts of the readings you may have already completed). These will help me (Prof. Chang) better address any concerns that might come up during the work session. **Check-ins are required and are graded based on completion**.
 
