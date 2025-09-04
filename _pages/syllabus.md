@@ -13,9 +13,9 @@ title: "Syllabus"
 
 **Time and Place**: T/R 1:15-2:30pm (Section 1) and 2:45-4:00pm (Section 2); SHAN 2450
 
-**Office Hours**: TBD, McGregor 322
+**Office Hours**: Monday 10:30-11:30am and Wednesday 3-4pm, McGregor 322
 
-**Grutoring Hours**: TBD
+**Grutoring Hours**: Tuesday 7-8pm and Saturday 2:30-3:30pm, McGregor 325
 
 For information about office hours and links to the course resources, visit the [Home page]({{ site.baseurl }}/).
 
