@@ -28,6 +28,8 @@ url: "https://cs.hmc.edu"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -102,3 +104,7 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+head_scripts:
+  - https://polyfill.io/v3/polyfill.min.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

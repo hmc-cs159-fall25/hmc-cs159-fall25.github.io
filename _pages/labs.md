@@ -7,6 +7,8 @@ This page is updated in real-time and new labs will appear as they release. For 
 
 **Before starting any labs**, please make sure you have gone through the [Lab Setup]({{ site.baseurl }}/labs/setup/), and that you have read and understood the [journaling instructions and grading policy]({{ site.baseurl }}/labs/grading/).
 
-**Week 2 (Current week)**: [Lab 1: Tokenization and Segmentation]({{ site.baseurl }}/labs/lab1/)
+**Week 3 (Current week)**: [Lab 2: Frequency and N-grams]({{ site.baseurl }}/labs/lab2/)
+
+Week 2: [Lab 1: Tokenization and Segmentation]({{ site.baseurl }}/labs/lab1/)
 
 Week 1: [Lab 0: Regex in-class activity]({{ site.baseurl }}/labs/lab0/)

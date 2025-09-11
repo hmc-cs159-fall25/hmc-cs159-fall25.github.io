@@ -25,7 +25,7 @@ Additional readings for this week are: J&M Chapters 3.3 and 3.6.
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
 |1   |Introduction and course overview         |J&M 2.3 [[Slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf)]|J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.5-2.6; intro of 3 [[Slides]({{ site.baseurl }}/assets/files/Week2-tokenization-segmentation.pdf)]|J&M 2.4 (up until 2.4.3); 4.9|[Lab 1]({{ site.baseurl }}/labs/lab1/)                         |
-|3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4               |J&M 3.3; 3.6          |Lab 2                         |
+|3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
 |4   |Text classification                      |                           |                      |                              |
 |5   |Part-of-speech tagging                   |                           |                      |                              |
 |6   |Co-occurrence, information retrieval     |                           |                      |                              |
