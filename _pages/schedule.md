@@ -27,7 +27,7 @@ There are no additional readings for this week.
 |2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.5-2.6; intro of 3 [[Slides]({{ site.baseurl }}/assets/files/Week2-tokenization-segmentation.pdf)]|J&M 2.4 (up until 2.4.3); 4.9|[Lab 1]({{ site.baseurl }}/labs/lab1/)                         |
 |3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
 |4   |Text classification                      |J&M B.1-B.2; B.6           |J&M B.7-B.8           |None (continue Lab 2)         |
-|5   |Part-of-speech tagging                   |J&M 17.2-17.4              |None                  |Lab 3                         |
+|5   |Part-of-speech tagging                   |J&M 17.2-17.4              |None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
 |6   |Co-occurrence, information retrieval     |                           |                      |                              |
 |7   |Vector semantics                         |                           |                      |                              |
 |8   |NLP and Data ethics                      |                           |                      |                              |

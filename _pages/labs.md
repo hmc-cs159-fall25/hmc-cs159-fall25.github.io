@@ -7,7 +7,9 @@ This page is updated in real-time and new labs will appear as they release. For 
 
 **Before starting any labs**, please make sure you have gone through the [Lab Setup]({{ site.baseurl }}/labs/setup/), and that you have read and understood the [journaling instructions and grading policy]({{ site.baseurl }}/labs/grading/).
 
-**Week 3 (Current week)**: [Lab 2: Frequency and N-grams]({{ site.baseurl }}/labs/lab2/)
+**Week 5 (Current week)**: [Lab 3: Text Classification]({{ site.baseurl }}/labs/lab3/)
+
+Week 3: [Lab 2: Frequency and N-grams]({{ site.baseurl }}/labs/lab2/)
 
 Week 2: [Lab 1: Tokenization and Segmentation]({{ site.baseurl }}/labs/lab1/)
 
