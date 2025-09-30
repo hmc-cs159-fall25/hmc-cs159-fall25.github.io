@@ -11,13 +11,13 @@ For your convenience, the information for the current week can always be found h
 
 ---
 
-The current week is: **Week 5**.
+The current week is: **Week 6**.
 
-The topic for this week is: **Part-of-speech tagging**
+The topic for this week is: **Information retrieval and co-occurrence**
 
-This week's lecture covers J&M Chapters 17.2-17.4
+This week's lecture covers J&M Chapters 11.1 (up until 11.1.4) and 5.3-5.4.
 
-There are no additional readings for this week.
+This week's supplementary readings are: J&M Chapter 11.1.4
 
 ## Full schedule
 
@@ -25,10 +25,10 @@ There are no additional readings for this week.
 |----|-----------------------------------------|---------------------------|----------------------|------------------------------|
 |1   |Introduction and course overview         |J&M 2.3 [[Slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf)]|J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.5-2.6; intro of 3 [[Slides]({{ site.baseurl }}/assets/files/Week2-tokenization-segmentation.pdf)]|J&M 2.4 (up until 2.4.3); 4.9|[Lab 1]({{ site.baseurl }}/labs/lab1/)                         |
-|3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
-|4   |Text classification                      |J&M B.1-B.2; B.6           |J&M B.7-B.8           |None (continue Lab 2)         |
-|5   |Part-of-speech tagging                   |J&M 17.2-17.4              |None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
-|6   |Co-occurrence, information retrieval     |                           |                      |                              |
+|3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}/assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
+|4   |Text classification                      |J&M B.1-B.2; B.6 [[Slides]({{ site.baseurl }}/assets/files/Week4-classification.pdf)]|J&M B.7-B.8           |None (continue Lab 2)         |
+|5   |Part-of-speech tagging                   |J&M 17.2-17.4 [[Slides]({{ site.baseurl }}/assets/files/Week5-pos-tagging.pdf)]|None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
+|6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4|J&M 11.1.4    |Lab 4                         |
 |7   |Vector semantics                         |                           |                      |                              |
 |8   |NLP and Data ethics                      |                           |                      |                              |
 |9   |Ethics cont., Transformers, future of NLP|                           |                      |                              |
