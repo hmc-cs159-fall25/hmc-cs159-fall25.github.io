@@ -28,7 +28,7 @@ This week's supplementary readings are: J&M Chapter 11.1.4
 |3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}/assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
 |4   |Text classification                      |J&M B.1-B.2; B.6 [[Slides]({{ site.baseurl }}/assets/files/Week4-classification.pdf)]|J&M B.7-B.8           |None (continue Lab 2)         |
 |5   |Part-of-speech tagging                   |J&M 17.2-17.4 [[Slides]({{ site.baseurl }}/assets/files/Week5-pos-tagging.pdf)]|None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
-|6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4|J&M 11.1.4    |Lab 4                         |
+|6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4|J&M 11.1.4    |[Lab 4]({{ site.baseurl }}/labs/lab4/)|
 |7   |Vector semantics                         |                           |                      |                              |
 |8   |NLP and Data ethics                      |                           |                      |                              |
 |9   |Ethics cont., Transformers, future of NLP|                           |                      |                              |

@@ -7,7 +7,9 @@ This page is updated in real-time and new labs will appear as they release. For 
 
 **Before starting any labs**, please make sure you have gone through the [Lab Setup]({{ site.baseurl }}/labs/setup/), and that you have read and understood the [journaling instructions and grading policy]({{ site.baseurl }}/labs/grading/).
 
-**Week 5 (Current week)**: [Lab 3: Text Classification]({{ site.baseurl }}/labs/lab3/)
+**Week 6 (Current week)**: [Lab 4: Part of Speech Tagging]({{ site.baseurl }}/labs/lab4/)
+
+Week 5: [Lab 3: Text Classification]({{ site.baseurl }}/labs/lab3/)
 
 Week 3: [Lab 2: Frequency and N-grams]({{ site.baseurl }}/labs/lab2/)
 
