@@ -30,7 +30,7 @@ url: "https://cs.hmc.edu"
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 

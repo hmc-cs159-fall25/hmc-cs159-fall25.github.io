@@ -11,13 +11,13 @@ For your convenience, the information for the current week can always be found h
 
 ---
 
-The current week is: **Week 6**.
+The current week is: **Week 7**.
 
-The topic for this week is: **Information retrieval and co-occurrence**
+The topic for this week is: **Vector Semantics**
 
-This week's lecture covers J&M Chapters 11.1 (up until 11.1.4) and 5.3-5.4.
+This week's lecture covers material that is **not found in the textbook!**
 
-This week's supplementary readings are: J&M Chapter 11.1.4
+This week's supplementary readings are: J&M Chapter 5.5
 
 ## Full schedule
 
@@ -29,7 +29,7 @@ This week's supplementary readings are: J&M Chapter 11.1.4
 |4   |Text classification                      |J&M B.1-B.2; B.6 [[Slides]({{ site.baseurl }}/assets/files/Week4-classification.pdf)]|J&M B.7-B.8           |None (continue Lab 2)         |
 |5   |Part-of-speech tagging                   |J&M 17.2-17.4 [[Slides]({{ site.baseurl }}/assets/files/Week5-pos-tagging.pdf)]|None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
 |6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4|J&M 11.1.4    |[Lab 4]({{ site.baseurl }}/labs/lab4/)|
-|7   |Vector semantics                         |                           |                      |                              |
+|7   |Vector semantics                         |N/A - Material not in the textbook|J&M 5.5        |Lab 5                         |
 |8   |NLP and Data ethics                      |                           |                      |                              |
 |9   |Ethics cont., Transformers, future of NLP|                           |                      |                              |
 |10  |Project brainstorming, midterm review    |                           |                      |                              |
