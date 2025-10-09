@@ -5,7 +5,7 @@ title: "Lab 5: Information Retrieval and Vector Semantics"
 
 ## Starter Code
 
-As always, grab the [starter code from GitHub Classroom](TODO).
+As always, grab the [starter code from GitHub Classroom](https://classroom.github.com/a/GwrA2BRj).
 
 ## Overview
 
@@ -22,11 +22,12 @@ In this lab, you'll try your hand at building a (very basic) search engine. To k
 
 One other thing to know about this lab: believe it or not, this is the last lab of the semester! From here on out, we'll start to transition to thinking about the final project. Therefore, in addition to having you practice information retrieval and vector semantics, another learning goal of this lab is to give you some experience with what it "feels like" to work on a final project. Specifically, this lab has the following properties that make it different from previous labs (but which make it more closely resemble a final project):
 - The data you will be working with has no labels of any kind, which means that you cannot do any sort of empirical evaluation. Instead, you will need to interpret your results qualitatively, based on your own human intuitions and knowledge of NLP. This is a common situation faced by many final project teams, since teams often want to work with real world data which likewise typically isn't labeled.
+- Likewise, there are no provided tests. You will need to use your intuition to judge whether the results you are seeing look reasonable. Again, this is something you will encounter in the final project; NLP algorithms don't always behave the way we expect and "correct" results can sometimes still look strange, so making this judgment can be harder than it sounds! When in doubt, try running multiple different searches/inputs. If they _all_ look weird, then something is probably wrong, but if at least some look clearly reasonable you are probably ok.
 - There will be a "choose your own adventure" aspect at the end of this lab where you're given full freedom to explore Python libraries of your own choosing with no guidance. Once again, this is meant to simulate the final project experience, where teams typically need to do their own research to find resources that will help them achieve their goal.
 
 **Hint** (useful for the entire lab): at several points in this lab, you may find yourself wanting to do matrix multiplication. There are two things to be careful about regarding matrix multiplication in numpy:
 1. You might think that `*` does matrix multiplication, but you'd be wrong! The exact behavior of `*` varies depending on the shape of the matrices, and it can be hard to predict since numpy will always try to interpret it in some way that "works" regardless of the shapes. To do actual matrix multiplication, of the kind that you learned about in Linear Algebra, such that the code will throw an error if the shapes don't work, you shoud instead use the `@` operator (so, `M @ N` instead of `M * N`).
-2. A vector is not a matrix, even though both are considered "arrays" in numpy! A vector with `N` elements has shape `(N)`, whereas a matrix with one row and `N` elements (which sounds like it _should_ be the same thing) has shape `(1,N)`. You can't multiply a vector with a matrix, you can only multiply two matrices! To turn a vector into a 1x`N` matrix, you can call `reshape(1,-1)`. Another nice trick: if you want the vector to become "vertical" (i.e., a matrix with one column, with one element per row) you can instead call `reshape(-1,1)`.
+2. A vector is not a matrix, even though both are considered "arrays" in numpy! A vector with `N` elements has shape `(N)`, whereas a matrix with one row and `N` elements (which sounds like it _should_ be the same thing) has shape `(1,N)`. You can't multiply a vector with a matrix, you can only multiply two matrices! To turn a vector into a 1x`N` matrix, you can call `reshape(1,-1)`. Another nice trick: if you want the vector to become "vertical" (i.e., a matrix with one column, with one element per row) you can instead call `reshape(-1,1)`. Finally, if you ever want to take such a "flat" matrix (1xN or Nx1) and turn it _back into_ a vector, you can do that by calling `flatten()`.
 
 ## Part 1: Understanding (and commenting) the starter code
 
@@ -189,9 +190,24 @@ OK, now _I'm_ literally just copy-pasting instructions from the previous section
 
 Once you have finished all the coding tasks in this part, you should be able to successfully search for words that are similar to a given word! Answer the following analysis questions:
 
+### Analysis 
+
 ### Analysis Question #5
 
-This one is open ended! Try searching for similar words to at least 5 different words of your choice, and paste the results in your journal. What do you think of the results? Are any of them surprising?
+Run `wiki_word_lookup.py` on at least 2 of the following words:
+- "college"
+- "frozen"
+- "science"
+- "programming"
+- "anime"
+
+In addition, run it on 3 more words of your choice. For all lookups, paste the results in your journal. What do you think of the results? Are any of them surprising?
+
+### Analysis Question #6
+
+Try running `wiki_word_lookup.py` on the word "male". Then, run it on the word "female". Compare the results: what stands out to you? Is there anything you find troubling, or otherwise unsatisfying, about how the "female" results look compared to the "male" results?
+
+Do the same comparison and analysis for the following pairs of words: "black" vs "white", and "africa" vs "europe"
 
 ## Part 5: Choose Your Own Adventure
 
@@ -211,11 +227,11 @@ Your task here is to do some research to find Python packages that implement mod
 
 Once you have found a library that you can use to compute document embeddings, you should integrate it into `wiki_search.py` by implementing a new subclass of `WikiDocumentVectors` that uses the library you found to create vector representations of documents (and queries). You will also want to modify `main` to allow the script to use this new subclass. Then, answer the following analysis questions:
 
-### Analysis Question #6a
+### Analysis Question #7a
 
 Re-run the same queries from Analysis Question #1/#3 using your new neural network vector model, and paste the new results in your journal. What changed? For each query, do you think the new results are better or worse than before? Why?
 
-### Analysis Question #7a
+### Analysis Question #8a
 
 Re-run your queries from Analysis Question #2/#4 using your new neural network vector model, and paste the new results in your journal. What changed? Do the new results better align with your expectations? For the two queries you originally expected the IR system to get wrong, does the system now get them right?
 
@@ -225,6 +241,10 @@ Your task here is to do some research to find Python packages that implement mod
 
 Once you have found a library that you can use to compute word embeddings, you should integrate it into `wiki_word_lookup.py` by implementing a new subclass of `WikiWordVectors` that uses the library you found to create vector representations of documents (and queries). You will also want to modify `main` to allow the script to use this new subclass. Then, answer the following analysis questions:
 
-### Analysis Question #6b
+### Analysis Question #7b
 
 Repeat Analysis Question #5 using your new neural network vector model, and paste the results in your journal. How do these results compare to the ones from Analysis Question #5? Do you think that this model capture more "humanlike" concepts than SVD? Are there any word similarities you still find confusing or incorrect?
+
+### Analysis Question #8b
+
+Repeat Analysis Question #6 using your new neural network vector model. Have the results significantly improved, in terms of things you were originally troubled or unsatisfied by? Or perhaps have the results gotten worse? In either case, why do you think this is?
