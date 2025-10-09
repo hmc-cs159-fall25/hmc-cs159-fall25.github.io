@@ -5,7 +5,7 @@ title: "Midterm & Final Project"
 
 ## Midterm
 
-Details coming soon; stay tuned!
+Midterm details can be found at [this link]({{ site.baseurl }}/midterm/).
 
 ## Final Project
 
