@@ -7,7 +7,9 @@ This page is updated in real-time and new labs will appear as they release. For 
 
 **Before starting any labs**, please make sure you have gone through the [Lab Setup]({{ site.baseurl }}/labs/setup/), and that you have read and understood the [journaling instructions and grading policy]({{ site.baseurl }}/labs/grading/).
 
-**Week 6 (Current week)**: [Lab 4: Part of Speech Tagging]({{ site.baseurl }}/labs/lab4/)
+**Final lab (Week 7+)**: [Lab 5: Information Retrieval and Vector Semantics]({{ site.baseurl }}/labs/lab5/)
+
+Week 6: [Lab 4: Part of Speech Tagging]({{ site.baseurl }}/labs/lab4/)
 
 Week 5: [Lab 3: Text Classification]({{ site.baseurl }}/labs/lab3/)
 
