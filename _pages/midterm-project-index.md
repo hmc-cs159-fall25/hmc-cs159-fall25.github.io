@@ -9,4 +9,4 @@ Midterm details can be found at [this link]({{ site.baseurl }}/midterm/).
 
 ## Final Project
 
-Details coming soon; stay tuned!
+Final project details can be found at [this link]({{ site.baseurl }}/final-project/)

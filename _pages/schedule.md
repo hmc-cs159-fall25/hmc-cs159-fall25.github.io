@@ -11,30 +11,26 @@ For your convenience, the information for the current week can always be found h
 
 ---
 
-The current week is: **Week 7**.
+The current week is: **Week 11**.
 
-The topic for this week is: **Vector Semantics**
-
-This week's lecture covers material that is **not found in the textbook!**
-
-This week's supplementary readings are: J&M Chapter 5.5
+There is no class this week because Prof Chang is out at the [EMNLP conference](https://2025.emnlp.org/)
 
 ## Full schedule
 
-|Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Topic signup|
-|----|-----------------------------------------|---------------------------|----------------------|------------------------------|
+|Week|Topic                                    |Chapters covered in lecture|Supplementary readings|Lab assignment or Project Milestone|
+|----|-----------------------------------------|---------------------------|----------------------|-----------------------------------|
 |1   |Introduction and course overview         |J&M 2.3 [[Slides]({{ site.baseurl }}/assets/files/Week1-intro.pdf)]|J&M 2.7; _[TC Reiwa article](https://techcrunch.com/2019/04/02/how-japans-new-imperial-era-broke-the-internet-in-a-very-tiny-way/) (optional)_|"[Lab 0]({{ site.baseurl }}/labs/lab0/)" in-class activity|
 |2   |Tokenization, segmentation, evaluation   |J&M 2.1; 2.5-2.6; intro of 3 [[Slides]({{ site.baseurl }}/assets/files/Week2-tokenization-segmentation.pdf)]|J&M 2.4 (up until 2.4.3); 4.9|[Lab 1]({{ site.baseurl }}/labs/lab1/)                         |
 |3   |Probability, N-grams, smoothing          |J&M 3.1; 3.4 [[Slides]({{ site.baseurl }}/assets/files/Week3-probability.pdf)]|J&M 3.3; 3.6          |[Lab 2]({{ site.baseurl }}/labs/lab2/)|
 |4   |Text classification                      |J&M B.1-B.2; B.6 [[Slides]({{ site.baseurl }}/assets/files/Week4-classification.pdf)]|J&M B.7-B.8           |None (continue Lab 2)         |
 |5   |Part-of-speech tagging                   |J&M 17.2-17.4 [[Slides]({{ site.baseurl }}/assets/files/Week5-pos-tagging.pdf)]|None                  |[Lab 3]({{ site.baseurl }}/labs/lab3/)                         |
-|6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4|J&M 11.1.4    |[Lab 4]({{ site.baseurl }}/labs/lab4/)|
-|7   |Vector semantics                         |N/A - Material not in the textbook|J&M 5.5        |[Lab 5]({{ site.baseurl }}/labs/lab5/)|
-|8   |_Fall Break_; Future of NLP              |                           |                      |                              |
-|9   |NLP Ethics; midterm review               |                           |                      |                              |
-|10  |Midterm                                  |                           |                      |                              |
-|11  |_Prof Chang out at EMNLP conference!_    |                           |                      |                              |
-|12  |Special topic 1 (TBD)                    |                           |                      |                              |
-|13  |Special topic 2 (TBD)                    |                           |                      |                              |
-|14  |Special topic 3 (TBD)                    |                           |                      |                              |
-|15  |Special topic 4 (TBD)                    |                           |                      |                              |
+|6   |Co-occurrence, information retrieval     |J&M 11.1 (up until 11.1.4); 5.3-5.4 [[Slides]({{ site.baseurl }}/assets/files/Week6-IR.pdf)]|J&M 11.1.4    |[Lab 4]({{ site.baseurl }}/labs/lab4/)|
+|7   |Vector semantics                         |N/A - Material not in the textbook [[Slides]({{ site.baseurl }}/assets/files/Week7-vector-semantics.pdf)]|J&M 5.5        |[Lab 5]({{ site.baseurl }}/labs/lab5/)|
+|8   |_Fall Break_; Future of NLP              |J&M 8.1-8.5 [[Slides]({{ site.baseurl }}/assets/files/Week8-wrapup-llms.pdf)]|N/A                   |None (continue Lab 5)         |
+|9   |NLP Ethics; midterm review               |N/A                        |N/A                   |N/A                           |
+|10  |Midterm                                  |N/A                        |N/A                   |N/A                           |
+|11  |_Prof Chang out at EMNLP conference!_    |N/A                        |[How to Read a Paper]({{ site.baseurl }}/assets/KeshavHowToReadAPaper.pdf)|Project Brainstorming; _[Tell Prof Chang what EMNLP papers you're interested in!](https://www.gradescope.com/courses/1066898/assignments/7087275)_|
+|12  |EMNLP Review / summary by Prof Chang     |                           |                      |Project Pitches               |
+|13  |Special topics 1 & 2                     |                           |                      |Literature Review             |
+|14  |Special topics 3 & 4                     |                           |                      |                              |
+|15  |Project presentations                    |                           |                      |                              |
