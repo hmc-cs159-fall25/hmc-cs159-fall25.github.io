@@ -11,9 +11,7 @@ For your convenience, the information for the current week can always be found h
 
 ---
 
-The current week is: **Week 11**.
-
-There is no class this week because Prof Chang is out at the [EMNLP conference](https://2025.emnlp.org/)
+The current week is: **Week 12**.
 
 ## Full schedule
 
@@ -29,7 +27,7 @@ There is no class this week because Prof Chang is out at the [EMNLP conference](
 |8   |_Fall Break_; Future of NLP              |J&M 8.1-8.5 [[Slides]({{ site.baseurl }}/assets/files/Week8-wrapup-llms.pdf)]|N/A                   |None (continue Lab 5)         |
 |9   |NLP Ethics; midterm review               |N/A                        |N/A                   |N/A                           |
 |10  |Midterm                                  |N/A                        |N/A                   |N/A                           |
-|11  |_Prof Chang out at EMNLP conference!_    |N/A                        |[How to Read a Paper]({{ site.baseurl }}/assets/KeshavHowToReadAPaper.pdf)|Project Brainstorming; _[Tell Prof Chang what EMNLP papers you're interested in!](https://www.gradescope.com/courses/1066898/assignments/7087275)_|
+|11  |_Prof Chang out at EMNLP conference!_    |N/A                        |[How to Read a Paper]({{ site.baseurl }}/assets/files/KeshavHowToReadAPaper.pdf)|Project Brainstorming; _[Tell Prof Chang what EMNLP papers you're interested in!](https://www.gradescope.com/courses/1066898/assignments/7087275)_|
 |12  |EMNLP Review / summary by Prof Chang     |                           |                      |Project Pitches               |
 |13  |Special topics 1 & 2                     |                           |                      |Literature Review             |
 |14  |Special topics 3 & 4                     |                           |                      |                              |
