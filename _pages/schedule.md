@@ -11,7 +11,13 @@ For your convenience, the information for the current week can always be found h
 
 ---
 
-The current week is: **Week 12**.
+The current week is: **Week 13**.
+
+The readings for this week are Special Topics papers, which vary by section.
+
+If you are in Section 1, read [this paper](https://aclanthology.org/2024.finnlp-1.20/) and [this paper](http://arxiv.org/abs/1902.10186).
+
+If you are in Section 2, read [this paper](https://ieeexplore.ieee.org/document/10467240) and [this paper](https://dl.acm.org/doi/abs/10.1145/3359190).
 
 ## Full schedule
 
@@ -29,6 +35,6 @@ The current week is: **Week 12**.
 |10  |Midterm                                  |N/A                        |N/A                   |N/A                           |
 |11  |_Prof Chang out at EMNLP conference!_    |N/A                        |[How to Read a Paper]({{ site.baseurl }}/assets/files/KeshavHowToReadAPaper.pdf)|Project Brainstorming; _[Tell Prof Chang what EMNLP papers you're interested in!](https://www.gradescope.com/courses/1066898/assignments/7087275)_|
 |12  |EMNLP Review / summary by Prof Chang     |                           |                      |Project Pitches               |
-|13  |Special topics 1 & 2                     |                           |                      |Literature Review             |
+|13  |Special topics 1 & 2                     |N/A                        |Papers for Section 1 [[1](https://aclanthology.org/2024.finnlp-1.20/)] [[2](http://arxiv.org/abs/1902.10186)] and Section 2 [[1](https://ieeexplore.ieee.org/document/10467240)] [[2](https://dl.acm.org/doi/abs/10.1145/3359190)]|Literature Review             |
 |14  |Special topics 3 & 4                     |                           |                      |                              |
 |15  |Project presentations                    |                           |                      |                              |
