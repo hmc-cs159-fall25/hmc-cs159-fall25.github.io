@@ -61,11 +61,11 @@ There is no maximum or minimum length for this, because depending on the project
 
 IMPORTANT: please formally cite all your sources with proper bibliography styling. In LaTeX, this can be done using `bibtex` (if you are new to this, [see here for a tutorial](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex)). Google Scholar can generate `bibtex` entries for you; but you should always double-check them since it sometimes gets things wrong (most notably, for some reason Google Scholar often defaults to the arXiv version of a paper if one is available, whereas for your citations you should always prefer citing the official journal/conference proceedings).
 
-## Part 4: Presentation (Dec 2 and 4)
+## Part 4: Presentation (Dec 4)
 
 To present the core problem you're working on, your approach, and a little of what you've done so far, you'll give a 10 minute in-class presentation describing your project. 10 minutes is a misleadingly short amount of time, so you'll want to quickly get to the core research question you're addressing and a quick idea of what results you have so far. Of course, this presentation is happening _before_ your final writeup is due, so it is understandable and expected if your project is not in a complete state yet. The goal of the presentation is more to be a "progress report" rather than a "final" presentation.
 
-Presentations will take place during the last week of classes, on Tuesday Dec 2 and Thursday Dec 4. For fairness, presentation slot assignments will be randomly decided, and the assignments will be sent out one week prior.
+Presentations will take place during the last day of CS159, on Thursday Dec 4. For fairness, presentation order will be randomly decided.
 
 Presentations will be graded on the following:
 
@@ -76,4 +76,23 @@ Presentations will be graded on the following:
 
 ## Part 5: Final Writeup (Dec 12 / Last day of finals)
 
-_Prof Chang is still working on this part; check back soon!_
+Your final project will be a 3-5 page paper in the ACL format (using the previously linked LaTeX template). **_If you are having trouble using the LaTeX template, especially for citation management, please reach out to course staff right away for help!_
+
+Your report should clearly express your approach to addressing a clear research question, how your approach connects with and differs from previous approaches, and both quantitative and qualitative analysis of your results. To fully match the ACL style, it should _at minimum_ include all of the following sections:
+
+- an **abstract** that states in 3-5 sentences what problem you addressed and what a key finding was. You may consider adapting your project pitch to turn it into the abstract, though of course you should make sure that the abstract accurately reflects the current state of your project (as I imagine your project may have evolved somewhat from the original pitch).
+- the **related work** section that you previously wrote for your literature review (which may also be expanded if you've found new references)
+- the **methods** section that you previously wrote for your literature review (which may need to be revised if your methods have changed since then)
+- a **results** section that describes the full results of the project, which _must include at least one figure, table, or plot_
+- a **conclusion** section that summarizes the key takeaways and speculates about future directions this work could go in, if you had more time
+- a **bibliography / references** listing, auto-generated using `bibtex` (this does not count towards the page limit)
+
+The paper is worth 100 points, broken down as follows:
+- **Completeness (10 pts)**: Does the paper include all of the required sections as listed above?
+- **Problem statement (10 pts)**: Does the paper clearly establish what the problem or research question is that your project addresses?
+- **Connection to existing work (20 pts)**: Is it clear what existing work you're building off of/comparing to? It's okay if this isn't a full history of the area, but it should be enough that someone who sees your paper or video will be able to distinguish what the new contributions of your work are with respect to existing work.
+- **Technical soundness (30 pts)**: Do you clearly describe the data, processing, models, and evaluations you are using, and how those help you address your problem statement?
+- **Results (30 pts)**: What do your evaluations say about your models, data, etc.? Note that this isn't asking "is your model good", but rather what kinds of information do you get out of your results. Effective results sections should answer "why did/didn't this work" instead of just "did it work", and should include some ideas of which pieces of a model or what specific text examples might help explain quantitative summary statistics you have.
+
+Please submit your final PDF by December 12th at 12 PM on Gradescope. (**Note the midday, not midnight, deadline!** As per final exam rules, there cannot be extensions on this deadline).
+
